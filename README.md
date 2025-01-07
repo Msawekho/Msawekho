@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm Hlanganani Hlongwane, a driven software develo
 ---
 
 ### 📫 Contact Information
-- **Email:** hlanganani.hlongwane@capaciti.org.za
+- **Email:** hlangananimpungose@gmail.com
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/hlanganani-hlongwane-51b500204/?original_referer=https%3A%2F%2Fmsawekho%2Egithub%2Eio%2F&originalSubdomain=za)
 
 ---
